@@ -310,6 +310,30 @@ body {
 .navbar-default .navbar-header .navbar-brand {
   text-transform: none; }
 
+.logo-dark {
+  background: url("/img/logo/logo-dark.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+.logo-light {
+  background: url("/img/logo/logo-light-1x.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+.logo-header {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 15px; }
+
+.logo-contact {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 15px; }
+
 .tagline {
   font-size: xx-small;
   color: rgba(255, 255, 255, 0.7); }
